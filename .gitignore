@@ -1,2 +1,6 @@
 Config.java
 *.class
+.classpath
+.project
+/.metadata/*
+*/.settings/*
