@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\eber\workspaces\softsec\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2257761332.index
+3431887154.index
+1192784902.index
+1056255399.index
+263379386.index
