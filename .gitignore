@@ -4,3 +4,5 @@ Config.java
 .project
 /.metadata/*
 */.settings/*
+*.MF
+
